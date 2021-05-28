@@ -2,7 +2,8 @@
 
 ## Test driven development
 ### Pytest and unittest
-### Use pip to install the packages 
+### Use pip to install the packages
+`pip install pytest`
 
 - nothing is set or pushed to production (in front of client) until it is tested 
 - Red - everything failing
